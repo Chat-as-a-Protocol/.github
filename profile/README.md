@@ -26,12 +26,6 @@ Coupling by code is debt.
 Integration by contract is architecture.
 ```
 
-## ⧉ Public Core
-
-- [neo-chat-uncensored](https://github.com/Chat-as-a-Protocol/neo-chat-uncensored) —
-  **NØX.AI Chat**: sovereign, uncensored AI chat interface.
-  Powered by Venice AI and FlowPay.
-
 ## ⨷ Principles
 
 - **Sovereignty** — each node owns its runtime, data and deploy.
